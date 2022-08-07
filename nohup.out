@@ -80,3 +80,17 @@ TermSocket.open: Opened 2
 [I 2022-08-07 10:13:31.006 ServerApp] New terminal with automatic name: 3
 TermSocket.open: 3
 TermSocket.open: Opened 3
+[I 2022-08-07 10:14:12.604 ServerApp] Kernel shutdown: a5f62493-3528-427e-85e2-4780aa8ef627
+[I 2022-08-07 10:14:12.616 ServerApp] Kernel shutdown: 692a6320-054c-4f91-a1e2-e9485f45876e
+[I 2022-08-07 10:14:12.802 ServerApp] EOF on FD 83; stopping reading
+[I 2022-08-07 10:14:12.911 ServerApp] Terminal 3 closed
+[I 2022-08-07 10:14:12.912 ServerApp] EOF on FD 25; stopping reading
+[I 2022-08-07 10:14:13.018 ServerApp] Terminal 2 closed
+[I 2022-08-07 10:14:13.201 ServerApp] EOF on FD 23; stopping reading
+[I 2022-08-07 10:14:13.307 ServerApp] Terminal 1 closed
+Websocket closed
+Websocket closed
+Websocket closed
+[I 2022-08-07 10:14:14.339 ServerApp] Shutting down on /api/shutdown request.
+[I 2022-08-07 10:14:14.343 ServerApp] Shutting down 0 kernels
+/panel-preview/ /panel-preview
