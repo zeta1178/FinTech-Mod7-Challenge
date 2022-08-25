@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "Challenge7",
+            "database": "fraud_detection",
+            "username": "postgres",
+            "password": "cruz"
+        }
+    ]
+}
